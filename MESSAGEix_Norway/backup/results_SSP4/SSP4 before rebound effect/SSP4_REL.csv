@@ -1,0 +1,25 @@
+,relation,node_rel,year_rel,lvl,mrg
+0,weight_rc,World,2020,0.0,0.0
+1,weight_rc,World,2030,0.0,0.0
+2,weight_rc,World,2040,0.0,0.0
+3,weight_rc,World,2050,0.0,0.0
+4,weight_rc,World,2060,0.0,0.0
+5,weight_rc,World,2070,0.0,0.0
+6,weight_rc,South Africa,2020,19.942198,0.0
+7,weight_rc,South Africa,2030,22.984518,0.0
+8,weight_rc,South Africa,2040,24.658243,0.0
+9,weight_rc,South Africa,2050,27.150223,0.0
+10,weight_rc,South Africa,2060,30.762808,0.0
+11,weight_rc,South Africa,2070,35.035458,0.0
+12,weight_trp,World,2020,0.0,0.0
+13,weight_trp,World,2030,0.0,0.0
+14,weight_trp,World,2040,0.0,0.0
+15,weight_trp,World,2050,0.0,0.0
+16,weight_trp,World,2060,0.0,0.0
+17,weight_trp,World,2070,0.0,0.0
+18,weight_trp,South Africa,2020,0.0,0.0
+19,weight_trp,South Africa,2030,0.0,0.0
+20,weight_trp,South Africa,2040,0.0,0.0
+21,weight_trp,South Africa,2050,0.0,0.0
+22,weight_trp,South Africa,2060,0.0,0.0
+23,weight_trp,South Africa,2070,0.0,0.0

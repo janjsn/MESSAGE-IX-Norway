@@ -1,0 +1,19 @@
+1. Coal mining cost (coal_extr) --> inv_cost, fix_cost, var_cost (increase of 1% per year)
+2. var_cost: oil_imp to 1.33 of base value (Fujimori)
+3. var_cost: gas_extr 7.5% increase per year (Fujimori)
+4. var_cost: oil_extr 7.5% increase per year (Fujimori)
+5. var_cost: shale_extr 7.5% increase per year (Fujimori)
+6. var_cost: loil_imp 1.33 of base value
+7. var_cost: coal_imp to 1.33 of base value
+8. inv_cost: coal_ppl reduced timestep difference by 50%, ensured continual decrease in investment costs
+9. inv_cost: foil_ppl decreased from 730 to 650 [2020 to 2070]
+10. inv_cost: gas_ppl reduced timestep difference by 50% [2020-2040], kept at 300 from 344 [2040-2070]
+11. inv_cost: loil_ppl decrease from 600 to 550
+12. var_cost: nuc_ppl 2% decrease per year
+13. var_cost: oil_exp reduced by 1.33
+14. inv_cost: for solar_i, solar_pv, solar_th_ppl, solar_th_ppl_base, wind_ppl, reduce difference beteween decades by 0.25
+15. fix_cost: for solar_i, solar_pv_ppl, solar_th_ppl, solar_th_ppl_base, wind_ppl, reduce difference beteween decades by 0.25
+16a. capacity_factor: coal_gas, coal_i, coal_ppl, increased capacity factors from year 2030. 	
+			Techs from 2030 -> 5% increase, techs from 2040 and forward, 10% increase
+16b. capacity_factor: nuc_ppl, increased capacity factor by 4% in 2030 (from 71% to 75%) and by 7% from 2040 (form 71% to 78%)
+17. GDP: Calibrated the GDP according to the SSP public database for SSP3, based on OECD GDP

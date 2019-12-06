@@ -1,0 +1,5 @@
+1. Overall demand change - adjustement based on projection of GDP in the SSP database for SSP4: results in a decrease in demand
+2. R&C demand: the speed of the transition from traditional biomass to electricity is slowed down
+3. Rebound effect: as all energy prices become cheaper, the demand for all energgy categories is linearly increased to 15 % in 2070.
+4. inv_cost: nuclear, solar and wind costs decreased in order to reach around 50% of SSP2 in 2100, 5% decrease per year
+5. fix_cost: nuclear, solar and wind costs decreased in order to reach around 50% of SSP2 in 2100, 5% decrease per year

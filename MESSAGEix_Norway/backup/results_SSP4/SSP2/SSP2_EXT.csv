@@ -1,0 +1,25 @@
+,node,commodity,grade,year,lvl,mrg
+0,South Africa,coal,c1,2020,194.0,0.0
+1,South Africa,coal,c1,2030,225.44406,0.0
+2,South Africa,coal,c1,2040,239.64537,0.0
+3,South Africa,coal,c1,2050,271.4802,0.0
+4,South Africa,coal,c1,2060,322.63254,0.0
+5,South Africa,coal,c1,2070,401.017,0.0
+6,South Africa,crudeoil,c1,2020,0.0,0.0
+7,South Africa,crudeoil,c1,2030,0.0,0.0
+8,South Africa,crudeoil,c1,2040,0.0,0.0
+9,South Africa,crudeoil,c1,2050,0.3,0.0
+10,South Africa,crudeoil,c1,2060,0.0,0.0
+11,South Africa,crudeoil,c1,2070,0.0,0.0
+12,South Africa,gas,c1,2020,0.029035345,0.0
+13,South Africa,gas,c1,2030,0.00041934758,0.0
+14,South Africa,gas,c1,2040,0.0002510789,0.0
+15,South Africa,gas,c1,2050,0.0001503302,0.0
+16,South Africa,gas,c1,2060,9.0008245e-05,0.0
+17,South Africa,gas,c1,2070,5.389126e-05,0.0
+18,South Africa,shalegas,c1,2020,0.0,0.0
+19,South Africa,shalegas,c1,2030,0.0,0.0
+20,South Africa,shalegas,c1,2040,0.0,0.0
+21,South Africa,shalegas,c1,2050,0.0,0.0
+22,South Africa,shalegas,c1,2060,0.0,0.0
+23,South Africa,shalegas,c1,2070,0.0,0.0
